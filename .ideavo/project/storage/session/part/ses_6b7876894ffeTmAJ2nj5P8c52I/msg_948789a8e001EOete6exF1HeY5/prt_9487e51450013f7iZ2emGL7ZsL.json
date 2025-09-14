@@ -1,0 +1,18 @@
+{
+  "id": "prt_9487e51450013f7iZ2emGL7ZsL",
+  "messageID": "msg_948789a8e001EOete6exF1HeY5",
+  "sessionID": "ses_6b7876894ffeTmAJ2nj5P8c52I",
+  "model": "Claude Sonnet 4",
+  "type": "finish",
+  "commitMessage": "feat(app): initialize HabitIQ with voice input, smart reminders, and AI insights",
+  "cost": 0.6103762500000001,
+  "tokens": {
+    "input": 5,
+    "output": 539,
+    "reasoning": 0,
+    "cache": {
+      "write": 219,
+      "read": 39732
+    }
+  }
+}

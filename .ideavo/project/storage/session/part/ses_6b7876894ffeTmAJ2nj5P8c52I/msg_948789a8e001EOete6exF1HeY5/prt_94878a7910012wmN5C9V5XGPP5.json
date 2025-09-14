@@ -1,0 +1,121 @@
+{
+  "id": "prt_94878a7910012wmN5C9V5XGPP5",
+  "messageID": "msg_948789a8e001EOete6exF1HeY5",
+  "sessionID": "ses_6b7876894ffeTmAJ2nj5P8c52I",
+  "type": "tool",
+  "tool": "todowrite",
+  "callID": "toolu_01UpPgDNfapv8fpdXyaNu5Mu",
+  "state": {
+    "status": "completed",
+    "input": {
+      "todos": [
+        {
+          "content": "Set up core app structure and replace placeholder content",
+          "status": "pending",
+          "priority": "high",
+          "id": "1"
+        },
+        {
+          "content": "Create voice input component with transcript generation",
+          "status": "pending",
+          "priority": "high",
+          "id": "2"
+        },
+        {
+          "content": "Build note management system with localStorage",
+          "status": "pending",
+          "priority": "high",
+          "id": "3"
+        },
+        {
+          "content": "Implement smart reminders extraction from notes",
+          "status": "pending",
+          "priority": "medium",
+          "id": "4"
+        },
+        {
+          "content": "Add AI pattern analysis and suggestions",
+          "status": "pending",
+          "priority": "medium",
+          "id": "5"
+        },
+        {
+          "content": "Create brain-dump input with auto-organization",
+          "status": "pending",
+          "priority": "medium",
+          "id": "6"
+        },
+        {
+          "content": "Design responsive UI with habit tracking dashboard",
+          "status": "pending",
+          "priority": "medium",
+          "id": "7"
+        },
+        {
+          "content": "Add markdown rendering for transcripts",
+          "status": "pending",
+          "priority": "low",
+          "id": "8"
+        }
+      ]
+    },
+    "output": "[\n  {\n    \"content\": \"Set up core app structure and replace placeholder content\",\n    \"status\": \"pending\",\n    \"priority\": \"high\",\n    \"id\": \"1\"\n  },\n  {\n    \"content\": \"Create voice input component with transcript generation\",\n    \"status\": \"pending\",\n    \"priority\": \"high\",\n    \"id\": \"2\"\n  },\n  {\n    \"content\": \"Build note management system with localStorage\",\n    \"status\": \"pending\",\n    \"priority\": \"high\",\n    \"id\": \"3\"\n  },\n  {\n    \"content\": \"Implement smart reminders extraction from notes\",\n    \"status\": \"pending\",\n    \"priority\": \"medium\",\n    \"id\": \"4\"\n  },\n  {\n    \"content\": \"Add AI pattern analysis and suggestions\",\n    \"status\": \"pending\",\n    \"priority\": \"medium\",\n    \"id\": \"5\"\n  },\n  {\n    \"content\": \"Create brain-dump input with auto-organization\",\n    \"status\": \"pending\",\n    \"priority\": \"medium\",\n    \"id\": \"6\"\n  },\n  {\n    \"content\": \"Design responsive UI with habit tracking dashboard\",\n    \"status\": \"pending\",\n    \"priority\": \"medium\",\n    \"id\": \"7\"\n  },\n  {\n    \"content\": \"Add markdown rendering for transcripts\",\n    \"status\": \"pending\",\n    \"priority\": \"low\",\n    \"id\": \"8\"\n  }\n]",
+    "metadata": {
+      "todos": [
+        {
+          "content": "Set up core app structure and replace placeholder content",
+          "status": "pending",
+          "priority": "high",
+          "id": "1"
+        },
+        {
+          "content": "Create voice input component with transcript generation",
+          "status": "pending",
+          "priority": "high",
+          "id": "2"
+        },
+        {
+          "content": "Build note management system with localStorage",
+          "status": "pending",
+          "priority": "high",
+          "id": "3"
+        },
+        {
+          "content": "Implement smart reminders extraction from notes",
+          "status": "pending",
+          "priority": "medium",
+          "id": "4"
+        },
+        {
+          "content": "Add AI pattern analysis and suggestions",
+          "status": "pending",
+          "priority": "medium",
+          "id": "5"
+        },
+        {
+          "content": "Create brain-dump input with auto-organization",
+          "status": "pending",
+          "priority": "medium",
+          "id": "6"
+        },
+        {
+          "content": "Design responsive UI with habit tracking dashboard",
+          "status": "pending",
+          "priority": "medium",
+          "id": "7"
+        },
+        {
+          "content": "Add markdown rendering for transcripts",
+          "status": "pending",
+          "priority": "low",
+          "id": "8"
+        }
+      ]
+    },
+    "title": "8 todos",
+    "time": {
+      "start": 1757857495203,
+      "end": 1757857495215
+    }
+  }
+}

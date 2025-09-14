@@ -1,0 +1,27 @@
+{
+  "id": "prt_9487ddce5001GTg1UBiSb6Sh82",
+  "messageID": "msg_948789a8e001EOete6exF1HeY5",
+  "sessionID": "ses_6b7876894ffeTmAJ2nj5P8c52I",
+  "type": "tool",
+  "tool": "bash",
+  "callID": "toolu_01BE7QhJ1V2y4JRRJ6KcSwSd",
+  "state": {
+    "status": "completed",
+    "input": {
+      "command": "cd /home/user/project && npm run dev",
+      "timeout": 10000,
+      "description": "Start the development server to test HabitIQ"
+    },
+    "output": "\n> ideavo-nextjs@0.1.0 dev\n> next dev\n\n  ▲ Next.js 14.2.31\n  - Local:        http://localhost:3000\n  - Environments: .env\n\n ✓ Starting...\n ✓ Ready in 1995ms\n",
+    "metadata": {
+      "output": "\n> ideavo-nextjs@0.1.0 dev\n> next dev\n\n  ▲ Next.js 14.2.31\n  - Local:        http://localhost:3000\n  - Environments: .env\n\n ✓ Starting...\n ✓ Ready in 1995ms\n",
+      "exit": null,
+      "description": "Start the development server to test HabitIQ"
+    },
+    "title": "cd /home/user/project && npm run dev",
+    "time": {
+      "start": 1757857833355,
+      "end": 1757857843364
+    }
+  }
+}
